@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+storage/laravels.conf
+storage/laravels.pid
+storage/laravels-timer-process.pid
+storage/laravels-custom-processes.pid
+.idea
