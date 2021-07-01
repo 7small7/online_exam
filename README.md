@@ -6,11 +6,11 @@
 
 ### 项目预览
 
-![](./document_images/gh_b5e1c7bb8d27_258.jpg)
+![gh_b5e1c7bb8d27_258](https://gitee.com/bruce_qiq/picture/raw/master/2021-7-1/1625107700911-gh_b5e1c7bb8d27_258.jpg)
 
 ### 项目功能图
 
-![](./document_images/1.png)
+![1](https://gitee.com/bruce_qiq/picture/raw/master/2021-7-1/1625107692874-1.png)
 
 ### 环境要求
 ```php
