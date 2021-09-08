@@ -6,7 +6,7 @@
 
 ### 项目预览
 
-![gh_b5e1c7bb8d27_258](https://gitee.com/bruce_qiq/picture/raw/master/2021-7-1/1625107700911-gh_b5e1c7bb8d27_258.jpg)
+![gh_fac6b543b112_258](https://gitee.com/bruce_qiq/picture/raw/master/2021-9-9/1631144838344-gh_fac6b543b112_258.jpg)
 
 ### 项目功能图
 
